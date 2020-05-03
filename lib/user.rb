@@ -3,4 +3,5 @@ class User
   
   def initialize
     @new =[]
+  end 
 end
